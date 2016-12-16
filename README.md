@@ -1,6 +1,6 @@
-# Jekyll Modern Blog
+# Gibberich
 
-A Simple, Clean and responsive modern blog for jekyll.
+The outlet of a dreamer
 
 ## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
