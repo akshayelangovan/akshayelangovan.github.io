@@ -1,7 +1,6 @@
-# Gibberich
+# akshayelangovan.github.io
 
-The outlet of a dreamer
-
+Gibberich
 ## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
 ## Attributions
