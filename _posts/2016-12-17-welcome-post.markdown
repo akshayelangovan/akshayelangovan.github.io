@@ -3,7 +3,7 @@ title:  "Hello, people"
 subtitle: "Post #1"
 author: "Akshay Elangovan"
 avatar: "img/authors/wferr.png"
-image: "img/spread.png"
+image: "img/spread.jpg"
 date:   2016-12-17 01:04:17
 ---
 

@@ -3,7 +3,7 @@ title:  "Being the Roll Cage Guy experience #1"
 subtitle: "Post #2"
 author: "Akshay Elangovan"
 avatar: "img/authors/wferr.png"
-image: "img/launch.png"
+image: "img/launch.jpg"
 date:   2017-01-09 01:04:17
 ---
 
